@@ -1,4 +1,4 @@
-# Last_HW
+# Network Analysis and Graph Theory
 
 ## Overview
 This Jupyter notebook is focused on network analysis and graph theory, utilizing the Python library NetworkX. It provides a series of analyses and visualizations related to network structures and properties.
